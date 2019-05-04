@@ -1,0 +1,21 @@
+li{
+    padding-bottom: 40px;
+}
+
+
+ul{
+    list-style-type: none;
+    position: relative;
+    left: 16%;
+}
+
+.other_social_media{
+    padding-left: 20px;
+    float: left;
+}
+
+footer{
+    margin: 0; 
+    position: absolute;
+    left: 43%;
+}

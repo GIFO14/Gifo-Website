@@ -1,0 +1,34 @@
+ul{
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+    position: relative;
+    left: 41%;
+}
+
+li{
+    padding-left: 25px;
+    float: left;
+}
+
+nav {
+    justify-self: center; 
+}
+
+a {
+    padding: 1.5 em;
+    text-transform: uppercase;
+    font-size: .8em;
+}
+
+.hover {
+    background: blue;
+}
+
+.logo{
+    border-radius: 50%;
+}
+
+.text_li{
+    padding-top: 17px;
+}
